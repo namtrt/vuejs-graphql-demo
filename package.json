@@ -1,0 +1,24 @@
+{
+  "name": "vuejs-graphql-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.1-rc.5",
+    "bootstrap": "^4.6.1",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.19.3",
+    "graphql-tag": "^2.12.6",
+    "nuxt": "^2.15.8",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {}
+}
